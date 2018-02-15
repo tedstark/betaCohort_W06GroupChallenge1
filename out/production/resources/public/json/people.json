@@ -1,0 +1,12 @@
+{
+  "people": [
+    {
+      "name": "Scott",
+      "city": "Minneapolis"
+    },
+    {
+      "name":"Koddie",
+      "city":"Huxley"
+    }
+  ]
+}
